@@ -2,6 +2,7 @@ This is my practice in machine learning Artificial Intellegence courses
 i develop two program, that is : 
 - classification SMS (spam, ham and promo/ads)
 - classification complaint service in Lapor! apps (multiclass : in this case i use 9 classes)
+- this project use Feedforward Neural Network Algorithm
 
 System Requirement :
 - python version > 3.x (if you've not installed it, please look at : https://realpython.com/installing-python/ to install python first )
